@@ -1,4 +1,4 @@
-# Calculator test project test
+# Calculator test project
 
 The aim of this project is to provide a project where tests can be run and reported in the command line.
 
