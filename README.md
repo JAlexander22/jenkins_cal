@@ -1,4 +1,4 @@
-# Calculator test project
+# Calculator test project test
 
 The aim of this project is to provide a project where tests can be run and reported in the command line.
 
@@ -37,4 +37,3 @@ you will also find `XML` result output in the folder:
 you will find a JSON report for JGiven output:
 
 `jgiven-reports/TestCalculatorJgiven.json`
-
